@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "description": "AWS Lambda export target for Flow Weaver",
   "keywords": [
-    "flowweaver-marketplace-pack",
+    "flow-weaver-marketplace-pack",
     "flow-weaver",
     "lambda",
     "aws",
